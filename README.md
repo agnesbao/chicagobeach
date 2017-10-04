@@ -1,2 +1,2 @@
 # chicagobeach
-My python/ML practice, in the ipynb file!
+My python/ML practice, in the ChicagoBeach.ipynb file!
